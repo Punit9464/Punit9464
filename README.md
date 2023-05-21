@@ -13,7 +13,7 @@ I am a CS Student
 
 ## Projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#ff0000&height=1200&section=header&text=Avon%&animation=twinkling&fontSize=75" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Avon%20&fontSize=90" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/avonbot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.punnii._) 
