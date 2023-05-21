@@ -1,13 +1,19 @@
 ### [Hey There I am Punit](https://discord.gg/avonbot)
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/765841266181144596.png) -->
 <a href="https://discord.com/users/765841266181144596">
 <img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
 </a>
 
-# 💫 About Me:
-- 🔭 I’m currently working on [Avon](https://discord.gg/avonbot)<br><br>- 🌱 I’m currently learning **Python**<br><br>- 👯 I’m looking to collaborate on [Hammer](https://discord.gg/hammerhq)<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Punit9464/Punit9464](https://github.com/Punit9464/Punit9464)<br><br>- 💬 Ask me about **Javascript, Html, CSS, Mongo DB, MySql, MsSql, Cassandra**<br><br>- 📫 How to reach me **punitkumar8728@gmail.com**<br><br>- 📄 Know about my experiences [https://discord.gg/avonbot](https://discord.gg/avonbot)
+I am a CS Student
 
+## About Me:
+
+- Learning Python currently
+- A person who loves techy things
+
+## Projects
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/avonbot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.punnii._) 
