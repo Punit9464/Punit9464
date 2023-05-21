@@ -1,8 +1,8 @@
 ### [Hey There I am Punit, A Apsirant](https://discord.gg/avonbot)
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/765841266181144596.png) -->
-<a href="https://discord.com/users/765841266181144596">
-<img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/928575023705391135.png) -->
+<a href="https://discord.com/users/928575023705391135">
+<img src="https://discord.c99.nl/widget/theme-3/928575023705391135.png" alt="Discord"/>
 </a>
 
 # 💫 About Me:
@@ -15,6 +15,3 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Punit9464) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
