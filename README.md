@@ -13,7 +13,7 @@ I am a CS Student
 
 ## Projects
 <a href = "https://discord.gg/avonbot">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&width=100&section=header&text=Avon%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=#ff0000&animation=blink&height=100&width=100&section=header&text=Avon%20&fontSize=90" />
 </a>
 
 ## 🌐 Socials:
