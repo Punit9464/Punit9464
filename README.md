@@ -8,7 +8,7 @@ I am a CS Student
 
 ## About Me:
 
-- Learning C and Java currently
+- Learning C++ and Java currently
 - A person who loves techy things
 
 ## Projects
