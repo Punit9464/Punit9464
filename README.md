@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70748&center=true&width=435&lines=Full+Stack+Developer;CS+Undergraduate;React+out+for+any+help+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70748&center=true&width=435&lines=Full+Stack+Developer;CS+Undergraduate;Reach+out+for+any+help+!" />
 </p>
 
 <p align="center">
